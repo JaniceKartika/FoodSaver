@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FoodSaver</string>
+
+    <string name="empty_data">No data available</string>
+    <string name="login_title_id">Your ID</string>
+
+    <!-- Button Action -->
+    <string name="action_input_data">Input Data</string>
+    <string name="action_login">Login</string>
+    <string name="action_logout">Logout</string>
 </resources>
